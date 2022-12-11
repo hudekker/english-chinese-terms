@@ -23,38 +23,41 @@ English-Chinese Terms
 | indent           | 縮進         |
 | code formatting  | 排版         |
 
-| Keyboard operators  |                |
-| ------------------- | -------------- |
-| tab key             | 製表鍵         |
-| parenthesis ()      | 掛號           |
-| curly braces {}     | 大掛號，花掛號 |
-| square brackets[]   | 中掛號         |
-| angle brackets      | 尖掛號         |
-| hash tag            | 井字號         |
-| single quotes       | 引號           |
-| double quotes       | 雙引號         |
-| caret (back tick) ` | 波浪號         |
-| alt key             | 轉換鍵         |
-| control key         | 控制鍵         |
-| caps lock key       | 大寫鎖定鍵     |
-| escape key          | 退出鍵         |
-| hyphen              | 作連字號       |
-| underline           | 底線           |
-| comma               | 豆號           |
-| apostrophe          | 撇號           |
-| right click         | 右鍵點擊       |
-| dash                | 破折號         |
-| dash (-)            | 減             |
-| slash               | 斜線           |
-| toggle              | 切換           |
+| Keyboard operators |                        |
+| ------------------ | ---------------------- |
+| tab key            | 跳格鍵，製表鍵         |
+| parenthesis ()     | 小掛號                 |
+| curly braces {}    | 大掛號，花掛號，花掛弧 |
+| square brackets[]  | 中掛號                 |
+| angle brackets     | 尖掛號                 |
+| hash tag           | 井字號                 |
+| single quotes      | 引號                   |
+| double quotes      | 雙引號                 |
+| back tick `        | 反引號                 |
+| caret ~            | 波浪號                 |
+| alt key            | 轉換鍵                 |
+| control key        | 控制鍵                 |
+| caps lock key      | 大寫鎖定鍵             |
+| escape key         | 退出鍵                 |
+| hyphen             | 作連字號               |
+| underline          | 底線                   |
+| comma              | 豆號                   |
+| apostrophe         | 撇號                   |
+| right click        | 右鍵點擊               |
+| dash               | 破折號                 |
+| dash (-)           | 減                     |
+| slash              | 斜線，斜杠？           |
+| backslash          | 反斜線，反斜杠？       |
+| toggle             | 切換                   |
+| refresh            | 重新整理               |
 
-| Arrays    |           |
-| --------- | --------- |
-| array     | 陳列      |
-| index     | 索引      |
-| increment | 增加      |
-| decrement | 減縮？    |
-| counter   | 計數值 ？ |
+| Arrays    |        |
+| --------- | ------ |
+| array     | 陳列   |
+| index     | 索引   |
+| increment | 增加   |
+| decrement | 減縮   |
+| counter   | 計數值 |
 
 | Objects  |            |
 | -------- | ---------- |
@@ -62,13 +65,14 @@ English-Chinese Terms
 | class    | 類型       |
 | property | 屬性       |
 | method   | 預設定方法 |
-| pair     | 對 ？      |
+| pair     | 對         |
 | element  | 元數       |
 
 | Variables and Numbers            |                |
 | -------------------------------- | -------------- |
 | variable                         | 變數           |
 | function                         | 函數           |
+| return                           | 回傳結果       |
 | declaration                      | 宣告           |
 | comment                          | 註解           |
 | boolean                          | 布爾值，布林   |
@@ -87,11 +91,15 @@ English-Chinese Terms
 | trim                             | 修剪           |
 | remainder                        | 取除           |
 
-| Process      | 流程     |
-| ------------ | -------- |
-| loop         | 迴圈     |
-| if then else | 流程控制 |
-| iterate      | 送代？   |
+| Process          | 流程     |
+| ---------------- | -------- |
+| loop             | 迴圈     |
+| if then else     | 流程控制 |
+| iterate          | 反覆     |
+| for loop (a,b,c) |          |
+| a                | 初始條件 |
+| b                | 結束條件 |
+| c                | 跳躍級距 |
 
 | Comparative Operators | 比較運算子                                |
 | --------------------- | ----------------------------------------- |
