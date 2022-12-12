@@ -57,6 +57,7 @@ h1 {
   text-shadow: 1px 1px 1px black;
   font-size: 2rem;
   color: var(--dracula-white);
+  text-align: center;
 }
 .theme-dark {
   color: var(--dracula-white);
